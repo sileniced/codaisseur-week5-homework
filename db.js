@@ -11,7 +11,7 @@ const force = true
 
 sequelize.sync({ force })
 .then(() => {
-  console.log('Sequelize updated database schema')
+  console.log('-- S U C C E S -- Database updated')
 })
 .catch(console.error)
 
