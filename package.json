@@ -1,0 +1,15 @@
+{
+  "name": "spotify-api-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.3.0",
+    "pg": "^7.5.0",
+    "sequelize": "^4.39.0"
+  }
+}
